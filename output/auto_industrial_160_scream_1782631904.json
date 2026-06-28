@@ -1,0 +1,28 @@
+{
+  "timestamp": 1782631904,
+  "preset": "industrial_160",
+  "bpm": 160,
+  "bars": 4,
+  "bass": "scream",
+  "bass_freq": 55,
+  "scale": "harmonic_minor",
+  "swing": 0.032,
+  "sidechain": 0.5,
+  "eq": {
+    "low": 1.12,
+    "mid": 0.82,
+    "high": 1.03
+  },
+  "widen": 0.32,
+  "fx": [
+    "highpass",
+    "delay"
+  ],
+  "layers": [
+    "drums",
+    "bass",
+    "lead",
+    "pad"
+  ],
+  "duration": 6.0
+}

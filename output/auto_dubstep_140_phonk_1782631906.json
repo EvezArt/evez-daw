@@ -1,0 +1,27 @@
+{
+  "timestamp": 1782631906,
+  "preset": "dubstep_140",
+  "bpm": 140,
+  "bars": 4,
+  "bass": "phonk",
+  "bass_freq": 70,
+  "scale": "phrygian",
+  "swing": 0.079,
+  "sidechain": 0.52,
+  "eq": {
+    "low": 1.32,
+    "mid": 1.0,
+    "high": 1.19
+  },
+  "widen": 0.46,
+  "fx": [
+    "bitcrush",
+    "comb"
+  ],
+  "layers": [
+    "drums",
+    "bass",
+    "lead"
+  ],
+  "duration": 6.9
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": 1782631905,
+  "preset": "amen_break",
+  "bpm": 170,
+  "bars": 4,
+  "bass": "reese",
+  "bass_freq": 65,
+  "scale": "whole_tone",
+  "swing": 0.132,
+  "sidechain": 0.74,
+  "eq": {
+    "low": 1.22,
+    "mid": 0.81,
+    "high": 1.15
+  },
+  "widen": 0.41,
+  "fx": [
+    "distortion",
+    "chorus"
+  ],
+  "layers": [
+    "drums",
+    "bass",
+    "lead",
+    "pad"
+  ],
+  "duration": 5.6
+}

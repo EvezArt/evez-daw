@@ -1,0 +1,30 @@
+{
+  "timestamp": 1782631905,
+  "preset": "phonk_130",
+  "bpm": 130,
+  "bars": 4,
+  "bass": "scream",
+  "bass_freq": 42,
+  "scale": "diminished",
+  "swing": 0.142,
+  "sidechain": 0.42,
+  "eq": {
+    "low": 1.24,
+    "mid": 0.81,
+    "high": 1.05
+  },
+  "widen": 0.37,
+  "fx": [
+    "highpass",
+    "waveshaper",
+    "highpass",
+    "comb"
+  ],
+  "layers": [
+    "drums",
+    "bass",
+    "lead",
+    "pad"
+  ],
+  "duration": 7.4
+}
